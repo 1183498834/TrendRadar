@@ -4,11 +4,6 @@
 DeepSeek
 梁文锋
 
-华为
-鸿蒙
-HarmonyOS
-任正非
-
 比亚迪
 王传福
 
@@ -29,18 +24,13 @@ DJI
 影之刃零
 梁其伟
 
-哪吒
-饺子
+崩坏·星穹铁道
+绝区零
+米哈游
+
 杨宇
 !车
 !餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
 
 京东
 刘强东
@@ -51,6 +41,7 @@ bytedance
 
 特斯拉
 马斯克
+星链
 
 微软
 Microsoft
@@ -65,6 +56,7 @@ AMD
 google
 gemini
 deepmind
+nano banana
 
 chatgpt
 openai
@@ -104,6 +96,13 @@ ai
 雅鲁藏布江
 
 新质生产力
+
+黄金
+基金
+A股
+港股
+日经
+纳斯达克
 
 月球
 登月
